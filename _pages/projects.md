@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yanna Mei - Portfolio
-permalink: /projects/
+permalink: /projects.md/
 ---
 
 <div class="gallery-container">
