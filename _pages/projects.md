@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Yanna Mei - Portfolio
-permalink: /projects.md/
+title: Projects
+permalink: /projects/
+
+<h1>Projects</h1>
+<ul>
+  {% for project in site.projects %}
+    <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+  {% endfor %}
+</ul>
 ---
 
 <div class="gallery-container">

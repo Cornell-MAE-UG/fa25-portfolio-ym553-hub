@@ -6,7 +6,7 @@ title: Yanna Mei
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.jpeg" | relative_url }}){: class="profile-image"}
 
  
 My name is Yanna Mei, and I am a student at Cornell University intending to major in Civil Engineering. I am interested in learning more about structural engineering to, hopefully, one day work on designing safe buildings in natural disaster-prone areas. 
