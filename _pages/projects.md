@@ -1,14 +1,8 @@
 ---
 layout: default
 title: Projects
-permalink: /projects/index.html
+permalink: /projects
 
-<h1>Projects</h1>
-<ul>
-  {% for project in site.projects %}
-    <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
-  {% endfor %}
-</ul>
 ---
 
 <div class="gallery-container">

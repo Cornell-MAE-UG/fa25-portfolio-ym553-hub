@@ -14,7 +14,6 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : Yanna Mei
 description              : Yanna Mei - Projects and CV 
 baseurl                  : "/fa25-portfolio-ym553-hub" # Set this to your repo name 
-url: "https://cornell-mae-ug.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
